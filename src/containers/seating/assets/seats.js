@@ -1,0 +1,23 @@
+export const seats = [
+    {id: "86912c13-1356-a417-c42a-f20dfac94351", no: 1, category: "VVIP", price: 6000},
+    {id: "86912c13-1356-a417-c42a-f20dfac94352", no: 2, category: "VVIP", price: 6000},
+    {id: "86912c13-1356-a417-c42a-f20dfac94353", no: 3, category: "VVIP", price: 6000},
+    {id: "86912c13-1356-a417-c42a-f20dfac94354", no: 4, category: "VVIP", price: 6000},
+    {id: "86912c13-1356-a417-c42a-f20dfac94355", no: 5, category: "VVIP", price: 6000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94351", no: 6, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94352", no: 7, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94353", no: 8, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94354", no: 9, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94355", no: 10, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94356", no: 11, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94357", no: 12, category: "VIP", price: 3000},
+    {id: "76912c13-1356-a417-c42a-f20dfac94358", no: 13, category: "VIP", price: 3000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94351", no: 14, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94352", no: 15, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94353", no: 16, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94354", no: 17, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94355", no: 18, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94356", no: 19, category: "Regular", price: 1000},
+    {id: "66912c13-1356-a417-c42a-f20dfac94357", no: 20, category: "Regular", price: 1000},
+
+]

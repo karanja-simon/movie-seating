@@ -1,0 +1,74 @@
+@import '~antd/dist/antd.css';
+
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 24px 16px 0;
+  float: left;
+}
+
+.padding-5 {
+  padding: 5px;
+}
+
+.bb-1 {
+  border-bottom: 1px solid rgba(219, 219, 219, 0.7);
+  padding: 5px;
+  margin: 5px;
+}
+
+.bt {
+  border-top: 1px solid rgba(219, 219, 219, 0.7);
+}
+
+.mt-10 {
+  margin-top: 10px !important;
+}
+
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+
+.selected-seat {
+  background-color: rgba(150, 185, 128, 0.7);
+}
+
+.deselected-seat {
+  background-color: white;
+}
+
+.ant-form-item-label {
+  text-align: left;
+}
+
+body {
+  margin: 0;
+  font-family: 'Work Sans', sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
